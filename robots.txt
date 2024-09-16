@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://amfoa.github.io/sitemap/sitemap.txt
